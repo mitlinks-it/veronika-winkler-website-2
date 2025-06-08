@@ -7,7 +7,7 @@ layout: ../layouts/MarkdownLayout.astro
 
 Verantwortlich für den Inhalt:  
 
-Birgit Werner 
+Lou.Smiles - Birgit Werner 
 Hammerweg 34 
 09496 Marienberg 
 Deutschland 
