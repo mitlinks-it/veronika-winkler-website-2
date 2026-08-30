@@ -7,12 +7,13 @@ layout: ../layouts/MarkdownLayout.astro
 
 Verantwortlich für den Inhalt:  
 
-Lou.Smiles - Birgit Werner 
-Hammerweg 34 
-09496 Marienberg 
-Deutschland 
+Veronika Winkler  
 
-E-Mail: info@lousmiles.de
+Pfarrhübel 41  
+09125 Chemnitz  
+Deutschland
+
+E-Mail: info@psychotherapie-veronika-winkler.de
 
 ## Haftungsausschluss
 

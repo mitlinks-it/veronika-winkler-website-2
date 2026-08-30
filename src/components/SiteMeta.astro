@@ -3,7 +3,7 @@ import { ViewTransitions } from 'astro:transitions'
 
 const { title, description, url, image, author } = Astro.props
 
-let subtitle = 'Herzensweg mit Lou'
+let subtitle = 'Praxis für Psychotherapie Veronika Winkler'
 ---
 
 <!-- general meta -->
@@ -17,9 +17,6 @@ let subtitle = 'Herzensweg mit Lou'
 <meta property="og:type" content="website" />
 <meta property="og:url" content={url} />
 <meta property="og:image" content={`${Astro.site}${image}`} />
-
-<!-- plausible -->
-<script defer data-domain="lousmiles.de" data-api="https://analytics.project-insanity.org/api/event" src="/js/plausible.js"/>
 
 <!-- page title -->
 <title>{title} - {subtitle}</title>
