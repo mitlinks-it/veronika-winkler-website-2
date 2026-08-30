@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-layout: "simple"
+layout: ../layouts/MarkdownLayout.astro
 robots: "noindex, nofollow"
 ---
 
